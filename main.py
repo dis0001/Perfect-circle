@@ -1,6 +1,6 @@
 # Created for the Perfect Circle game on https://neal.fun/perfect-circle/
-# Coded by Nick Roussis (Neek8044)
-# Github: https://github.com/neek8044/Perfect-Circle
+# Coded by Dis (Dis0001)
+# Github: https://github.com/dis0001
 # Licensed under Apache License 2.0 (see github ^)
 
 import pyautogui
